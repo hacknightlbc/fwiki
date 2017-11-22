@@ -2,7 +2,7 @@
 
 Ruby on Rails, or simply known as Rails, is a server-side web application framework written in Ruby. 
 
-**Ruby Homepage:** http://rubyonrails.org/
+**Rails Homepage:** http://rubyonrails.org/
 
 ### Tutorials and Online Books
 * [Rails Guides](http://guides.rubyonrails.org/) - "These guides are designed to make you immediately productive with Rails, and to help you understand how all of the pieces fit together."
